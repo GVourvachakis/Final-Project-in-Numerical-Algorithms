@@ -58,7 +58,7 @@ The final part develops a spectral face recognition system that classifies analy
 
 1. Clone the repository
     ```html
-    git clone https://github.com/GVourvachakis/Final_Project_Num_Alg.git
+    git clone https://github.com/GVourvachakis/Final-Project-Numerical-Algorithms.git
     ```
 
 2. Navigate to the desired project directory (`Project_P1`, `Project_P2`, or `Project_P3`) following the above content description.
