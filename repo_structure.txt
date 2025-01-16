@@ -1,0 +1,29 @@
+.
+├── Report.pdf
+├── Project_Assignment.pdf
+├── Beamer_slides.pdf
+├── Project_P1/
+│   ├── main.py
+│   ├── pagerank/
+│   │   ├── __init__.py
+│   │   ├── graph_utils.py
+│   │   ├── pagerank.py
+│   │   ├── plotting.py
+│   │   ├── networkx_utils.py
+│   ├── graph0.txt
+│   ├── graph1.txt
+│   ├── graph2.txt
+│   ├── graph3.txt
+├── Project_P2/
+│   ├── comparison_utils.py
+│   ├── line_search.py
+│   ├── lr_playground.py
+│   ├── trial_objectives.py
+├── Project_P3/
+│   ├── Project_P3.py
+│   ├── faces/
+│   │   ├── ... (JPEG images for training)
+│   ├── testfaces/
+│   │   ├── ... (JPEG images for testing)
+│   ├── basis/
+│       ├── ... (Eigenfaces storage)
